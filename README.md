@@ -1,3 +1,5 @@
+[<img src="https://travis-ci.org/cmullinsTU/project-euler.png">](https://travis-ci.org/cmullinsTU/treebook)
+
 Project Euler
 =============
 
